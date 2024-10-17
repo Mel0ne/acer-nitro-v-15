@@ -70,3 +70,8 @@ Your USB content/files should look like the screenshot below.
 5. Save and Exit
 
 Now it will boot to USB stick and you will be able to access the Advanced Settings as long as the USB stick is connected. Be warned, do not modify any settings without knowing what it does. It can brick the device. The settings you change will be saved even after you unplug the USB stick. In the event that you do brick your device, refer to **Panic BIOS rescue** section. You will see unlocked BIOS only when you boot from the USB stick. Regular F2 will present you with normal locked BIOS.
+
+
+# Restore Bios default Configuration
+
+Press the ```F9``` button to load the default configuration and Press the ```F10``` button and Enter to save the default configuration.
